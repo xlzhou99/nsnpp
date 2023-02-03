@@ -1,0 +1,43 @@
+*******************************
+It may be better to rewrite the programs for homogeneous Neumann BC
+such that the zeroth basis function \phi_0(x)=1 is included in the
+mass and stiffness matrix so that a uniform approach can be used in
+lenhmz2.f etc without treating the first row and column separately.
+
+Indeed, we can set:
+
+mass matrix:      B = diag (2, B_1) 
+stiffness matrix: A = diag (0, I_1)
+eigenmatrix     : E = diag (1, E_1)
+eigenvalue      : \Lambda = diag (2, \Lambda_1)
+where B_1, A_1, E_1, \Lambda_1 are those matrices excluding the zeroth
+basis function !!!
+*******************************
+
+Naming convention:
+
+First two letters:
+
+  LE: for Legendre
+  CY: for Chebyshev
+
+The number at the last position: dimension of the problem, ie. 1-D, 2-D, 3-D
+
+ftos, stof, stop, ptos:
+
+ tranforms: f, \phi;  s, Legendre or Chebyshev; p, value at the G-L points
+
+
+dhmz: Helmholtz with Dirichlet B.C
+nhmz: Helmholtz with Neumann B.C
+
+
+
+REMARK:
+
+If optimized BLAS is available, then
+
+1) dgemm1.f should be replaced by dgemm.f;
+
+2) call to ddot.f in the matrix diagonalization process should be
+   activated.
