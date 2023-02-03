@@ -1,0 +1,147 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+1	leneig.f	/^ 1    ww(i)=1.d0\/dsqrt(aa(i)*(4*i+6.d0))$/;"	l	subroutine:leneig	file:
+10	leneig.f	/^ 10   wk(i)=-c2*aa(2*i)*ww(2*i)*ww(2*i+2)$/;"	l	subroutine:leneig	file:
+1000	legcheb.f	/^ 1000          continue$/;"	l	subroutine:pldn	file:
+1000	legcheb.f	/^ 1000       continue$/;"	l	subroutine:plup	file:
+1000	legcheb.f	/^ 1000    continue$/;"	l	subroutine:plcoef	file:
+1000	legcheb.f	/^ 1000    continue$/;"	l	subroutine:plfar	file:
+1000	legcheb.f	/^ 1000    continue$/;"	l	subroutine:plfsqr	file:
+1000	legcheb.f	/^ 1000    continue$/;"	l	subroutine:plmatv	file:
+1000	legcheb.f	/^ 1000    continue$/;"	l	subroutine:plnei	file:
+1000	legcheb.f	/^ 1000    continue$/;"	l	subroutine:plner	file:
+1000	legcheb.f	/^ 1000    continue$/;"	l	subroutine:plsacr	file:
+1000	legcheb.f	/^ 1000 continue$/;"	l	subroutine:placr	file:
+1000	legcheb.f	/^ 1000 continue$/;"	l	subroutine:plnode	file:
+1000	legcheb.f	/^ 1000 continue$/;"	l	subroutine:plshft	file:
+1200	legcheb.f	/^ 1200       continue$/;"	l	subroutine:pldn	file:
+1200	legcheb.f	/^ 1200    continue$/;"	l	subroutine:placr	file:
+1200	legcheb.f	/^ 1200    continue$/;"	l	subroutine:plfar	file:
+1200	legcheb.f	/^ 1200 continue$/;"	l	subroutine:plcoef	file:
+1200	legcheb.f	/^ 1200 continue$/;"	l	subroutine:plfsqr	file:
+1200	legcheb.f	/^ 1200 continue$/;"	l	subroutine:plmatv	file:
+1200	legcheb.f	/^ 1200 continue$/;"	l	subroutine:plnei	file:
+1200	legcheb.f	/^ 1200 continue$/;"	l	subroutine:plner	file:
+1200	legcheb.f	/^ 1200 continue$/;"	l	subroutine:plnode	file:
+1200	legcheb.f	/^ 1200 continue$/;"	l	subroutine:plsacr	file:
+1400	legcheb.f	/^ 1400    continue$/;"	l	subroutine:plcoef	file:
+1400	legcheb.f	/^ 1400    continue$/;"	l	subroutine:pldn	file:
+1400	legcheb.f	/^ 1400    continue$/;"	l	subroutine:plup	file:
+1400	legcheb.f	/^ 1400 continue$/;"	l	subroutine:placr	file:
+1400	legcheb.f	/^ 1400 continue$/;"	l	subroutine:plfar	file:
+1500	legcheb.f	/^ 1500    continue$/;"	l	subroutine:plcoef	file:
+1600	legcheb.f	/^ 1600    continue$/;"	l	subroutine:plcoef	file:
+1600	legcheb.f	/^ 1600 continue$/;"	l	subroutine:placr	file:
+1600	legcheb.f	/^ 1600 continue$/;"	l	subroutine:pldn	file:
+1600	legcheb.f	/^ 1600 continue$/;"	l	subroutine:plfar	file:
+1600	legcheb.f	/^ 1600 continue$/;"	l	subroutine:plup	file:
+1700	legcheb.f	/^ 1700       continue$/;"	l	subroutine:plcoef	file:
+1800	legcheb.f	/^ 1800    continue$/;"	l	subroutine:plcoef	file:
+1800	legcheb.f	/^ 1800 continue$/;"	l	subroutine:pldn	file:
+19	jacobl.f	/^ 19   continue$/;"	l	subroutine:jacobf	file:
+1900	legcheb.f	/^ 1900 continue$/;"	l	subroutine:plcoef	file:
+20	leneig.f	/^ 20   wk(i)=-c2*aa(2*i-1)*ww(2*i-1)*ww(2*i+1)$/;"	l	subroutine:leneig	file:
+2000	legcheb.f	/^ 2000       continue$/;"	l	subroutine:pldn	file:
+2000	legcheb.f	/^ 2000       continue$/;"	l	subroutine:plup	file:
+2200	legcheb.f	/^ 2200    continue$/;"	l	subroutine:pldn	file:
+2200	legcheb.f	/^ 2200    continue$/;"	l	subroutine:plup	file:
+2400	legcheb.f	/^ 2400 continue$/;"	l	subroutine:pldn	file:
+2400	legcheb.f	/^ 2400 continue$/;"	l	subroutine:plup	file:
+2600	legcheb.f	/^ 2600 continue$/;"	l	subroutine:plup	file:
+27	jacobl.f	/^ 27         continue$/;"	l	subroutine:jacobl	file:
+28	jacobl.f	/^ 28         continue$/;"	l	subroutine:jacobl	file:
+29	jacobl.f	/^ 29      continue$/;"	l	subroutine:jacobl	file:
+30	jacobl.f	/^ 30      continue$/;"	l	subroutine:jacobl	file:
+39	jacobl.f	/^ 39   continue$/;"	l	subroutine:jacobl	file:
+49	jacobl.f	/^ 49   continue$/;"	l	subroutine:jacobl	file:
+dleh1no	dleh1no.f	/^      double precision function dleh1no(/;"	f
+dlel2no	dlel2no.f	/^      double precision function dlel2no(/;"	f
+dlestopx	dlestopx.f	/^      double precision function dlestopx(/;"	f
+dlestopxy	dlestopxy.f	/^      double precision function dlestopxy(/;"	f
+dln	dln.f	/^      double precision function dln(/;"	f
+dln2	dln2.f	/^      double precision function dln2(/;"	f
+dnftos	dnftos.f	/^      subroutine dnftos(/;"	s
+ftos2	ftos2.f	/^      subroutine ftos2(/;"	s
+ftos2a	ftos2a.f	/^      subroutine ftos2a(/;"	s
+ftos2b	ftos2b.f	/^      subroutine ftos2b(/;"	s
+jacobf	jacobl.f	/^      subroutine jacobf(/;"	s
+jacobl	jacobl.f	/^      subroutine jacobl(/;"	s
+jacpar	jacobl.f	14;"	c	subroutine:jacobl
+jacpar	jacobl.f	77;"	c	subroutine:jacobf
+lebih1d	lebih1d.f	/^      subroutine lebih1d(/;"	s
+lebih1db	lebih1db.f	/^      subroutine lebih1db(/;"	s
+ledeig	ledeig.f	/^      subroutine ledeig(/;"	s
+ledhmz1	ledhmz1.f	/^      subroutine ledhmz1(/;"	s
+ledhmz1b	ledhmz1b.f	/^      subroutine ledhmz1b(/;"	s
+ledhmz2	ledhmz2.f	/^       subroutine ledhmz2(/;"	s
+ledhmz2a	ledhmz2a.f	/^      subroutine ledhmz2a(/;"	s
+ledhmz2b	ledhmz2b.f	/^      subroutine ledhmz2b(/;"	s
+lednhmz	lednhmz.f	/^       subroutine lednhmz(/;"	s
+lednstof	lednstof.f	/^      subroutine lednstof(/;"	s
+ledx	ledx.f	/^      subroutine ledx(/;"	s
+ledxc	ledxc.f	/^      subroutine ledxc(/;"	s
+ledxx	ledxx.f	/^      subroutine ledxx(/;"	s
+ledy	ledy.f	/^      subroutine ledy(/;"	s
+ledyc	ledyc.f	/^      subroutine ledyc(/;"	s
+ledyy	ledyy.f	/^      subroutine ledyy(/;"	s
+leftosbih	leftosbih.f	/^      subroutine leftosbih(/;"	s
+leinit	leinit.f	/^      subroutine leinit(/;"	s
+leinitbih	leinitbih.f	/^      subroutine leinitbih(/;"	s
+leinitbihc	leinitbihc.f	/^      subroutine leinitbihc(/;"	s
+leinitc	leinitc.f	/^      subroutine leinitc(/;"	s
+lendhmz	lendhmz.f	/^       subroutine lendhmz(/;"	s
+lendstof	lendstof.f	/^      subroutine lendstof(/;"	s
+leneig	leneig.f	/^      subroutine leneig(/;"	s
+leneigw	leneigw.f	/^      subroutine leneigw(/;"	s
+lenhmz0	lenhmz0.f	/^      subroutine lenhmz0(/;"	s
+lenhmz1	lenhmz1.f	/^      subroutine lenhmz1(/;"	s
+lenhmz1b	lenhmz1b.f	/^      subroutine lenhmz1b(/;"	s
+lenhmz1w	lenhmz1w.f	/^      subroutine lenhmz1w(/;"	s
+lenhmz2	lenhmz2.f	/^      subroutine lenhmz2(/;"	s
+lenhmz2w	lenhmz2w.f	/^      subroutine lenhmz2w(/;"	s
+lenhmz2wb	lenhmz2wb.f	/^      subroutine lenhmz2wb(/;"	s
+lenhmz2wc	lenhmz2wc.f	/^      subroutine lenhmz2wc(/;"	s
+lenstof2	lenstof2.f	/^      subroutine lenstof2(/;"	s
+lepdhmz2b	lepdhmz2b.f	/^      subroutine lepdhmz2b(/;"	s
+leptos	leptos.f	/^      subroutine leptos(/;"	s
+leptos2	leptos2.f	/^      subroutine leptos2(/;"	s
+lestof2	lestof2.f	/^      subroutine lestof2(/;"	s
+lestof2b	lestof2b.f	/^      subroutine lestof2b(/;"	s
+lestofbih	lestofbih.f	/^      subroutine lestofbih(/;"	s
+lestop	lestop.f	/^      subroutine lestop(/;"	s
+lestop2	lestop2.f	/^      subroutine lestop2(/;"	s
+letouni1	letouni1.f	/^      subroutine letouni1(/;"	s
+letouni2	letouni2.f	/^      subroutine letouni2(/;"	s
+letrfm1	letrfm1.f	/^      subroutine letrfm1(/;"	s
+letrfm2	letrfm2.f	/^      subroutine letrfm2(/;"	s
+levalue2	levalue2.f	/^      subroutine levalue2(/;"	s
+ndftos	ndftos.f	/^      subroutine ndftos(/;"	s
+nftos2	nftos2.f	/^      subroutine nftos2(/;"	s
+placr	legcheb.f	/^      subroutine placr(/;"	s
+plaxy	legcheb.f	/^      function plaxy(/;"	f
+plaxyd	legcheb.f	/^      function plaxyd(/;"	f
+plb	legcheb.f	/^      subroutine plb(/;"	s
+plbxy	legcheb.f	/^      function plbxy(/;"	f
+plbxyd	legcheb.f	/^      function plbxyd(/;"	f
+plcoef	legcheb.f	/^      subroutine plcoef(/;"	s
+pldn	legcheb.f	/^      subroutine pldn(/;"	s
+plf	legcheb.f	/^      subroutine plf(/;"	s
+plfar	legcheb.f	/^      subroutine plfar(/;"	s
+plfb	legcheb.f	/^      subroutine plfb(/;"	s
+plfff	legcheb.f	/^      function plfff(/;"	f
+plfsqr	legcheb.f	/^      subroutine plfsqr(/;"	s
+plhat	legcheb.f	/^      subroutine plhat(/;"	s
+plini	legcheb.f	/^      subroutine plini(/;"	s
+plinj	legcheb.f	/^      subroutine plinj(/;"	s
+plmatv	legcheb.f	/^      subroutine plmatv(/;"	s
+plnei	legcheb.f	/^      subroutine plnei(/;"	s
+plner	legcheb.f	/^      subroutine plner(/;"	s
+plnode	legcheb.f	/^      subroutine plnode(/;"	s
+plsacr	legcheb.f	/^      subroutine plsacr(/;"	s
+plshft	legcheb.f	/^      subroutine plshft(/;"	s
+plup	legcheb.f	/^      subroutine plup(/;"	s
+sympenta	sympenta.f	/^      subroutine sympenta(/;"	s

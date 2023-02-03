@@ -1,0 +1,6 @@
+In this version, following changes need to be noticed:
+
+for ledxx.f:  The number of parameters is one less than before, the
+              outputis also different !
+  
+for leptos.f and lestop.f:  The inputs are now destroyed !!!
