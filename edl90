@@ -1,0 +1,1 @@
+ifort -c -fp-model strict -assume protect_parens input_var.f90

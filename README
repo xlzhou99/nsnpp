@@ -1,0 +1,14 @@
+Main routine: main.f90
+Input data in input_var.f90, 
+if change input_var.f90,  
+execute “make clean;  ./edl90;  make; ./a.out”
+
+
+
+Note:
+In Makefile, FLIB=the 'lib' folder position
+Must be compiled with LAPACK and BLAS (available from www.netlib.org),
+see Makefile for details.
+
+
+
